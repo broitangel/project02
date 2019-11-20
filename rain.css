@@ -1,0 +1,41 @@
+body {
+	 
+    background: linear-gradient(to bottom, #ffd8b3   0%,#ca6c18 100%);
+	 width:900px;
+	 length:auto;
+}
+ 
+
+}
+.grid{
+
+	grid-template-columns: 500px 500px 500px;
+	grid-template-rows: 100px 100px 100px;
+	display: grid;
+}
+ .item1{
+	 border:  #ff9966 solid 5px;
+	 background-color: # ;
+
+ }
+ 
+ .item2{
+	 border:  #ff9966 solid 5px;
+	 background-color: 	#;
+
+ }
+ .item3{
+     border:  #ff9966 solid 5px;
+	 background-color: #;
+ }
+ .item4{
+	 border: #ff9966 solid 5px;
+	 background-color: #6;
+	 grid-column-start: 2;
+ }	 
+.sg-even-row td, .sg-even-columns th 
+background-color: # !important;
+ }
+ 
+ 
+ 
